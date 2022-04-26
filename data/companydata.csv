@@ -1,0 +1,600 @@
+cid,cname,cemail,cstate,ccountry
+1,ibm,admin@ibm.com,new york,united states
+2,tata consultancy services,admin@tcs.com,maharashtra,india
+3,accenture,admin@accenture.com,dublin,ireland
+4,us army,admin@goarmy.com,virginia,united states
+5,ey,admin@ey.com,greater london,united kingdom
+6,hewlett-packard,admin@hpe.com,california,united states
+7,cognizant technology solutions,admin@cognizant.com,new jersey,united states
+8,walmart,admin@walmartcareers.com,wisconsin,united states
+9,microsoft,admin@microsoft.com,washington,united states
+10,at&t,admin@att.com,texas,united states
+11,united states air force,admin@airforce.com,texas,united states
+12,pwc,admin@pwc.com,new york,united states
+13,wells fargo,admin@wellsfargo.com,california,united states
+14,infosys,admin@infosys.com,karnataka,india
+15,deloitte,admin@deloitte.com,new york,united states
+16,citi,admin@citigroup.com,new york,united states
+17,bank of america,admin@bankofamerica.com,north carolina,united states
+18,jpmorgan chase & co.,admin@jpmorganchase.com,new york,united states
+19,us navy,admin@navy.com,district of columbia,united states
+20,amazon,admin@amazon.com,washington,united states
+21,apple,admin@apple.com,california,united states
+22,siemens,admin@siemens.com,bavaria,germany
+23,oracle,admin@oracle.com,california,united states
+24,nokia,admin@nokia.com,uusimaa,finland
+25,education nationale,admin@education.gouv.fr,île-de-france,france
+26,capgemini,admin@capgemini.com,aquitaine,france
+27,wipro technologies,admin@wipro.com,karnataka,india
+28,hsbc,admin@hsbc.com,greater london,united kingdom
+29,google,admin@google.com,california,united states
+30,united states postal service,admin@usps.com,district of columbia,united states
+31,mcdonald's corporation,admin@aboutmcdonalds.com,illinois,united states
+32,ericsson,admin@ericsson.com,stockholm,sweden
+33,boeing,admin@boeing.com,illinois,united states
+34,vodafone,admin@vodafone.com,west berkshire,united kingdom
+35,kaiser permanente,admin@kaiserpermanente.org,california,united states
+36,ford motor company,admin@ford.com,michigan,united states
+37,intel corporation,admin@intel.com,california,united states
+38,department of veterans affairs,admin@va.gov,district of columbia,united states
+39,cisco,admin@cisco.com,california,united states
+40,general motors,admin@gm.com,michigan,united states
+41,pepsico,admin@pepsico.com,new york,united states
+42,target,admin@target.com,minnesota,united states
+43,shell,admin@shell.com,zuid-holland,netherlands
+44,hcl technologies,admin@hcltech.com,uttar pradesh,india
+45,ups,admin@ups.com,georgia,united states
+46,pfizer,admin@pfizer.com,new york,united states
+47,unilever,admin@unilever.com,greater london,united kingdom
+48,nestlé,admin@nestle.com,vaud,switzerland
+49,unitedhealth group,admin@unitedhealthgroup.com,minnesota,united states
+50,huawei technologies,admin@huawei.com,guangdong,china
+51,dell,admin@dell.com,texas,united states
+52,gsk,admin@gsk.com,hillingdon,united kingdom
+53,honeywell,admin@honeywell.com,new jersey,united states
+54,schlumberger,admin@slb.com,texas,united states
+55,lockheed martin,admin@lockheedmartin.com,maryland,united states
+56,"ayatama energi,admin@ trisco nusantara",ayatama energi,
+57,abb,admin@abb.com,zurich,switzerland
+58,starbucks,admin@starbucks.com,washington,united states
+59,morgan stanley,admin@morganstanley.com,new york,united states
+60,the home depot,admin@homedepot.com,georgia,united states
+61,novartis,admin@novartis.com,basel-city,switzerland
+62,johnson & johnson,admin@jnj.com,new jersey,united states
+63,bp,admin@bp.com,greater london,united kingdom
+64,schneider electric,admin@schneider-electric.com,kentucky,united states
+65,state farm,admin@statefarm.com,illinois,united states
+66,dhl,admin@dhl.com,nordrhein-westfalen,germany
+67,td,admin@td.com,ontario,canada
+68,ge,admin@ge.com,connecticut,united states
+69,philips,admin@philips.com,surrey,united kingdom
+70,ubs,admin@ubs.com,zurich,switzerland
+71,procter & gamble,admin@pg.com,ohio,united states
+72,walgreens,admin@walgreens.com,illinois,united states
+73,"keller williams realty,admin@ inc.",keller williams realty,kw.com
+74,"lowe's companies,admin@ inc.",lowe's companies,lowes.com
+75,united states marine corps,admin@marines.com,district of columbia,united states
+76,dell emc,admin@dellemc.com,massachusetts,united states
+77,tech mahindra,admin@techmahindra.com,maharashtra,india
+78,verizon wireless,admin@verizonwireless.com,new jersey,united states
+79,sanofi,admin@sanofi.com,île-de-france,france
+80,bnp paribas,admin@bnpparibas.com,île-de-france,france
+81,deutsche bank,admin@db.com,hessen,germany
+82,tencent,admin@tencent.com,guangdong,china
+83,j.p. morgan,admin@jpmorgan.com,new york,united states
+84,verizon,admin@verizon.com,new jersey,united states
+85,l'oréal,admin@loreal.com,île-de-france,france
+86,kpmg,admin@kpmg.com,new jersey,united states
+87,orange,admin@orange.com,île-de-france,france
+88,linkedin,admin@linkedin.com,california,united states
+89,barclays,admin@barclays.com,greater london,united kingdom
+90,facebook,admin@facebook.com,california,united states
+91,northrop grumman corporation,admin@northropgrumman.com,virginia,united states
+92,fca fiat chrysler automobiles,admin@fcagroup.com,turin,united kingdom
+93,adp,admin@adp.com,new jersey,united states
+94,medtronic,admin@medtronic.com,minnesota,united states
+95,abbott,admin@abbott.com,illinois,united states
+96,chevron,admin@chevron.com,california,united states
+97,roche,admin@roche.com,basel-city,switzerland
+98,american express,admin@americanexpress.com,new york,united states
+99,samsung electronics,admin@samsung.com,south carolina,united states
+cid,cname,cemail,cstate,ccountry
+1,ibm,admin@ibm.com,new york,united states
+2,tata consultancy services,admin@tcs.com,maharashtra,india
+3,accenture,admin@accenture.com,dublin,ireland
+4,us army,admin@goarmy.com,virginia,united states
+5,ey,admin@ey.com,greater london,united kingdom
+6,hewlett-packard,admin@hpe.com,california,united states
+7,cognizant technology solutions,admin@cognizant.com,new jersey,united states
+8,walmart,admin@walmartcareers.com,wisconsin,united states
+9,microsoft,admin@microsoft.com,washington,united states
+10,at&t,admin@att.com,texas,united states
+11,united states air force,admin@airforce.com,texas,united states
+12,pwc,admin@pwc.com,new york,united states
+13,wells fargo,admin@wellsfargo.com,california,united states
+14,infosys,admin@infosys.com,karnataka,india
+15,deloitte,admin@deloitte.com,new york,united states
+16,citi,admin@citigroup.com,new york,united states
+17,bank of america,admin@bankofamerica.com,north carolina,united states
+18,jpmorgan chase & co.,admin@jpmorganchase.com,new york,united states
+19,us navy,admin@navy.com,district of columbia,united states
+20,amazon,admin@amazon.com,washington,united states
+21,apple,admin@apple.com,california,united states
+22,siemens,admin@siemens.com,bavaria,germany
+23,oracle,admin@oracle.com,california,united states
+24,nokia,admin@nokia.com,uusimaa,finland
+25,education nationale,admin@education.gouv.fr,île-de-france,france
+26,capgemini,admin@capgemini.com,aquitaine,france
+27,wipro technologies,admin@wipro.com,karnataka,india
+28,hsbc,admin@hsbc.com,greater london,united kingdom
+29,google,admin@google.com,california,united states
+30,united states postal service,admin@usps.com,district of columbia,united states
+31,mcdonald's corporation,admin@aboutmcdonalds.com,illinois,united states
+32,ericsson,admin@ericsson.com,stockholm,sweden
+33,boeing,admin@boeing.com,illinois,united states
+34,vodafone,admin@vodafone.com,west berkshire,united kingdom
+35,kaiser permanente,admin@kaiserpermanente.org,california,united states
+36,ford motor company,admin@ford.com,michigan,united states
+37,intel corporation,admin@intel.com,california,united states
+38,department of veterans affairs,admin@va.gov,district of columbia,united states
+39,cisco,admin@cisco.com,california,united states
+40,general motors,admin@gm.com,michigan,united states
+41,pepsico,admin@pepsico.com,new york,united states
+42,target,admin@target.com,minnesota,united states
+43,shell,admin@shell.com,zuid-holland,netherlands
+44,hcl technologies,admin@hcltech.com,uttar pradesh,india
+45,ups,admin@ups.com,georgia,united states
+46,pfizer,admin@pfizer.com,new york,united states
+47,unilever,admin@unilever.com,greater london,united kingdom
+48,nestlé,admin@nestle.com,vaud,switzerland
+49,unitedhealth group,admin@unitedhealthgroup.com,minnesota,united states
+50,huawei technologies,admin@huawei.com,guangdong,china
+51,dell,admin@dell.com,texas,united states
+52,gsk,admin@gsk.com,hillingdon,united kingdom
+53,honeywell,admin@honeywell.com,new jersey,united states
+54,schlumberger,admin@slb.com,texas,united states
+55,lockheed martin,admin@lockheedmartin.com,maryland,united states
+56,"ayatama energi,admin@ trisco nusantara",ayatama energi,
+57,abb,admin@abb.com,zurich,switzerland
+58,starbucks,admin@starbucks.com,washington,united states
+59,morgan stanley,admin@morganstanley.com,new york,united states
+60,the home depot,admin@homedepot.com,georgia,united states
+61,novartis,admin@novartis.com,basel-city,switzerland
+62,johnson & johnson,admin@jnj.com,new jersey,united states
+63,bp,admin@bp.com,greater london,united kingdom
+64,schneider electric,admin@schneider-electric.com,kentucky,united states
+65,state farm,admin@statefarm.com,illinois,united states
+66,dhl,admin@dhl.com,nordrhein-westfalen,germany
+67,td,admin@td.com,ontario,canada
+68,ge,admin@ge.com,connecticut,united states
+69,philips,admin@philips.com,surrey,united kingdom
+70,ubs,admin@ubs.com,zurich,switzerland
+71,procter & gamble,admin@pg.com,ohio,united states
+72,walgreens,admin@walgreens.com,illinois,united states
+73,"keller williams realty,admin@ inc.",keller williams realty,kw.com
+74,"lowe's companies,admin@ inc.",lowe's companies,lowes.com
+75,united states marine corps,admin@marines.com,district of columbia,united states
+76,dell emc,admin@dellemc.com,massachusetts,united states
+77,tech mahindra,admin@techmahindra.com,maharashtra,india
+78,verizon wireless,admin@verizonwireless.com,new jersey,united states
+79,sanofi,admin@sanofi.com,île-de-france,france
+80,bnp paribas,admin@bnpparibas.com,île-de-france,france
+81,deutsche bank,admin@db.com,hessen,germany
+82,tencent,admin@tencent.com,guangdong,china
+83,j.p. morgan,admin@jpmorgan.com,new york,united states
+84,verizon,admin@verizon.com,new jersey,united states
+85,l'oréal,admin@loreal.com,île-de-france,france
+86,kpmg,admin@kpmg.com,new jersey,united states
+87,orange,admin@orange.com,île-de-france,france
+88,linkedin,admin@linkedin.com,california,united states
+89,barclays,admin@barclays.com,greater london,united kingdom
+90,facebook,admin@facebook.com,california,united states
+91,northrop grumman corporation,admin@northropgrumman.com,virginia,united states
+92,fca fiat chrysler automobiles,admin@fcagroup.com,turin,united kingdom
+93,adp,admin@adp.com,new jersey,united states
+94,medtronic,admin@medtronic.com,minnesota,united states
+95,abbott,admin@abbott.com,illinois,united states
+96,chevron,admin@chevron.com,california,united states
+97,roche,admin@roche.com,basel-city,switzerland
+98,american express,admin@americanexpress.com,new york,united states
+99,samsung electronics,admin@samsung.com,south carolina,united states
+cid,cname,cemail,cstate,ccountry
+1,ibm,admin@ibm.com,new york,united states
+2,tata consultancy services,admin@tcs.com,maharashtra,india
+3,accenture,admin@accenture.com,dublin,ireland
+4,us army,admin@goarmy.com,virginia,united states
+5,ey,admin@ey.com,greater london,united kingdom
+6,hewlett-packard,admin@hpe.com,california,united states
+7,cognizant technology solutions,admin@cognizant.com,new jersey,united states
+8,walmart,admin@walmartcareers.com,wisconsin,united states
+9,microsoft,admin@microsoft.com,washington,united states
+10,at&t,admin@att.com,texas,united states
+11,united states air force,admin@airforce.com,texas,united states
+12,pwc,admin@pwc.com,new york,united states
+13,wells fargo,admin@wellsfargo.com,california,united states
+14,infosys,admin@infosys.com,karnataka,india
+15,deloitte,admin@deloitte.com,new york,united states
+16,citi,admin@citigroup.com,new york,united states
+17,bank of america,admin@bankofamerica.com,north carolina,united states
+18,jpmorgan chase & co.,admin@jpmorganchase.com,new york,united states
+19,us navy,admin@navy.com,district of columbia,united states
+20,amazon,admin@amazon.com,washington,united states
+21,apple,admin@apple.com,california,united states
+22,siemens,admin@siemens.com,bavaria,germany
+23,oracle,admin@oracle.com,california,united states
+24,nokia,admin@nokia.com,uusimaa,finland
+25,education nationale,admin@education.gouv.fr,île-de-france,france
+26,capgemini,admin@capgemini.com,aquitaine,france
+27,wipro technologies,admin@wipro.com,karnataka,india
+28,hsbc,admin@hsbc.com,greater london,united kingdom
+29,google,admin@google.com,california,united states
+30,united states postal service,admin@usps.com,district of columbia,united states
+31,mcdonald's corporation,admin@aboutmcdonalds.com,illinois,united states
+32,ericsson,admin@ericsson.com,stockholm,sweden
+33,boeing,admin@boeing.com,illinois,united states
+34,vodafone,admin@vodafone.com,west berkshire,united kingdom
+35,kaiser permanente,admin@kaiserpermanente.org,california,united states
+36,ford motor company,admin@ford.com,michigan,united states
+37,intel corporation,admin@intel.com,california,united states
+38,department of veterans affairs,admin@va.gov,district of columbia,united states
+39,cisco,admin@cisco.com,california,united states
+40,general motors,admin@gm.com,michigan,united states
+41,pepsico,admin@pepsico.com,new york,united states
+42,target,admin@target.com,minnesota,united states
+43,shell,admin@shell.com,zuid-holland,netherlands
+44,hcl technologies,admin@hcltech.com,uttar pradesh,india
+45,ups,admin@ups.com,georgia,united states
+46,pfizer,admin@pfizer.com,new york,united states
+47,unilever,admin@unilever.com,greater london,united kingdom
+48,nestlé,admin@nestle.com,vaud,switzerland
+49,unitedhealth group,admin@unitedhealthgroup.com,minnesota,united states
+50,huawei technologies,admin@huawei.com,guangdong,china
+51,dell,admin@dell.com,texas,united states
+52,gsk,admin@gsk.com,hillingdon,united kingdom
+53,honeywell,admin@honeywell.com,new jersey,united states
+54,schlumberger,admin@slb.com,texas,united states
+55,lockheed martin,admin@lockheedmartin.com,maryland,united states
+56,"ayatama energi,admin@ trisco nusantara",ayatama energi,
+57,abb,admin@abb.com,zurich,switzerland
+58,starbucks,admin@starbucks.com,washington,united states
+59,morgan stanley,admin@morganstanley.com,new york,united states
+60,the home depot,admin@homedepot.com,georgia,united states
+61,novartis,admin@novartis.com,basel-city,switzerland
+62,johnson & johnson,admin@jnj.com,new jersey,united states
+63,bp,admin@bp.com,greater london,united kingdom
+64,schneider electric,admin@schneider-electric.com,kentucky,united states
+65,state farm,admin@statefarm.com,illinois,united states
+66,dhl,admin@dhl.com,nordrhein-westfalen,germany
+67,td,admin@td.com,ontario,canada
+68,ge,admin@ge.com,connecticut,united states
+69,philips,admin@philips.com,surrey,united kingdom
+70,ubs,admin@ubs.com,zurich,switzerland
+71,procter & gamble,admin@pg.com,ohio,united states
+72,walgreens,admin@walgreens.com,illinois,united states
+73,"keller williams realty,admin@ inc.",keller williams realty,kw.com
+74,"lowe's companies,admin@ inc.",lowe's companies,lowes.com
+75,united states marine corps,admin@marines.com,district of columbia,united states
+76,dell emc,admin@dellemc.com,massachusetts,united states
+77,tech mahindra,admin@techmahindra.com,maharashtra,india
+78,verizon wireless,admin@verizonwireless.com,new jersey,united states
+79,sanofi,admin@sanofi.com,île-de-france,france
+80,bnp paribas,admin@bnpparibas.com,île-de-france,france
+81,deutsche bank,admin@db.com,hessen,germany
+82,tencent,admin@tencent.com,guangdong,china
+83,j.p. morgan,admin@jpmorgan.com,new york,united states
+84,verizon,admin@verizon.com,new jersey,united states
+85,l'oréal,admin@loreal.com,île-de-france,france
+86,kpmg,admin@kpmg.com,new jersey,united states
+87,orange,admin@orange.com,île-de-france,france
+88,linkedin,admin@linkedin.com,california,united states
+89,barclays,admin@barclays.com,greater london,united kingdom
+90,facebook,admin@facebook.com,california,united states
+91,northrop grumman corporation,admin@northropgrumman.com,virginia,united states
+92,fca fiat chrysler automobiles,admin@fcagroup.com,turin,united kingdom
+93,adp,admin@adp.com,new jersey,united states
+94,medtronic,admin@medtronic.com,minnesota,united states
+95,abbott,admin@abbott.com,illinois,united states
+96,chevron,admin@chevron.com,california,united states
+97,roche,admin@roche.com,basel-city,switzerland
+98,american express,admin@americanexpress.com,new york,united states
+99,samsung electronics,admin@samsung.com,south carolina,united states
+cid,cname,cemail,cstate,ccountry
+1,ibm,admin@ibm.com,new york,united states
+2,tata consultancy services,admin@tcs.com,maharashtra,india
+3,accenture,admin@accenture.com,dublin,ireland
+4,us army,admin@goarmy.com,virginia,united states
+5,ey,admin@ey.com,greater london,united kingdom
+6,hewlett-packard,admin@hpe.com,california,united states
+7,cognizant technology solutions,admin@cognizant.com,new jersey,united states
+8,walmart,admin@walmartcareers.com,wisconsin,united states
+9,microsoft,admin@microsoft.com,washington,united states
+10,at&t,admin@att.com,texas,united states
+11,united states air force,admin@airforce.com,texas,united states
+12,pwc,admin@pwc.com,new york,united states
+13,wells fargo,admin@wellsfargo.com,california,united states
+14,infosys,admin@infosys.com,karnataka,india
+15,deloitte,admin@deloitte.com,new york,united states
+16,citi,admin@citigroup.com,new york,united states
+17,bank of america,admin@bankofamerica.com,north carolina,united states
+18,jpmorgan chase & co.,admin@jpmorganchase.com,new york,united states
+19,us navy,admin@navy.com,district of columbia,united states
+20,amazon,admin@amazon.com,washington,united states
+21,apple,admin@apple.com,california,united states
+22,siemens,admin@siemens.com,bavaria,germany
+23,oracle,admin@oracle.com,california,united states
+24,nokia,admin@nokia.com,uusimaa,finland
+25,education nationale,admin@education.gouv.fr,île-de-france,france
+26,capgemini,admin@capgemini.com,aquitaine,france
+27,wipro technologies,admin@wipro.com,karnataka,india
+28,hsbc,admin@hsbc.com,greater london,united kingdom
+29,google,admin@google.com,california,united states
+30,united states postal service,admin@usps.com,district of columbia,united states
+31,mcdonald's corporation,admin@aboutmcdonalds.com,illinois,united states
+32,ericsson,admin@ericsson.com,stockholm,sweden
+33,boeing,admin@boeing.com,illinois,united states
+34,vodafone,admin@vodafone.com,west berkshire,united kingdom
+35,kaiser permanente,admin@kaiserpermanente.org,california,united states
+36,ford motor company,admin@ford.com,michigan,united states
+37,intel corporation,admin@intel.com,california,united states
+38,department of veterans affairs,admin@va.gov,district of columbia,united states
+39,cisco,admin@cisco.com,california,united states
+40,general motors,admin@gm.com,michigan,united states
+41,pepsico,admin@pepsico.com,new york,united states
+42,target,admin@target.com,minnesota,united states
+43,shell,admin@shell.com,zuid-holland,netherlands
+44,hcl technologies,admin@hcltech.com,uttar pradesh,india
+45,ups,admin@ups.com,georgia,united states
+46,pfizer,admin@pfizer.com,new york,united states
+47,unilever,admin@unilever.com,greater london,united kingdom
+48,nestlé,admin@nestle.com,vaud,switzerland
+49,unitedhealth group,admin@unitedhealthgroup.com,minnesota,united states
+50,huawei technologies,admin@huawei.com,guangdong,china
+51,dell,admin@dell.com,texas,united states
+52,gsk,admin@gsk.com,hillingdon,united kingdom
+53,honeywell,admin@honeywell.com,new jersey,united states
+54,schlumberger,admin@slb.com,texas,united states
+55,lockheed martin,admin@lockheedmartin.com,maryland,united states
+56,"ayatama energi,admin@ trisco nusantara",ayatama energi,
+57,abb,admin@abb.com,zurich,switzerland
+58,starbucks,admin@starbucks.com,washington,united states
+59,morgan stanley,admin@morganstanley.com,new york,united states
+60,the home depot,admin@homedepot.com,georgia,united states
+61,novartis,admin@novartis.com,basel-city,switzerland
+62,johnson & johnson,admin@jnj.com,new jersey,united states
+63,bp,admin@bp.com,greater london,united kingdom
+64,schneider electric,admin@schneider-electric.com,kentucky,united states
+65,state farm,admin@statefarm.com,illinois,united states
+66,dhl,admin@dhl.com,nordrhein-westfalen,germany
+67,td,admin@td.com,ontario,canada
+68,ge,admin@ge.com,connecticut,united states
+69,philips,admin@philips.com,surrey,united kingdom
+70,ubs,admin@ubs.com,zurich,switzerland
+71,procter & gamble,admin@pg.com,ohio,united states
+72,walgreens,admin@walgreens.com,illinois,united states
+73,"keller williams realty,admin@ inc.",keller williams realty,kw.com
+74,"lowe's companies,admin@ inc.",lowe's companies,lowes.com
+75,united states marine corps,admin@marines.com,district of columbia,united states
+76,dell emc,admin@dellemc.com,massachusetts,united states
+77,tech mahindra,admin@techmahindra.com,maharashtra,india
+78,verizon wireless,admin@verizonwireless.com,new jersey,united states
+79,sanofi,admin@sanofi.com,île-de-france,france
+80,bnp paribas,admin@bnpparibas.com,île-de-france,france
+81,deutsche bank,admin@db.com,hessen,germany
+82,tencent,admin@tencent.com,guangdong,china
+83,j.p. morgan,admin@jpmorgan.com,new york,united states
+84,verizon,admin@verizon.com,new jersey,united states
+85,l'oréal,admin@loreal.com,île-de-france,france
+86,kpmg,admin@kpmg.com,new jersey,united states
+87,orange,admin@orange.com,île-de-france,france
+88,linkedin,admin@linkedin.com,california,united states
+89,barclays,admin@barclays.com,greater london,united kingdom
+90,facebook,admin@facebook.com,california,united states
+91,northrop grumman corporation,admin@northropgrumman.com,virginia,united states
+92,fca fiat chrysler automobiles,admin@fcagroup.com,turin,united kingdom
+93,adp,admin@adp.com,new jersey,united states
+94,medtronic,admin@medtronic.com,minnesota,united states
+95,abbott,admin@abbott.com,illinois,united states
+96,chevron,admin@chevron.com,california,united states
+97,roche,admin@roche.com,basel-city,switzerland
+98,american express,admin@americanexpress.com,new york,united states
+99,samsung electronics,admin@samsung.com,south carolina,united states
+cid,cname,cemail,cstate,ccountry
+1,ibm,admin@ibm.com,new york,united states
+2,tata consultancy services,admin@tcs.com,maharashtra,india
+3,accenture,admin@accenture.com,dublin,ireland
+4,us army,admin@goarmy.com,virginia,united states
+5,ey,admin@ey.com,greater london,united kingdom
+6,hewlett-packard,admin@hpe.com,california,united states
+7,cognizant technology solutions,admin@cognizant.com,new jersey,united states
+8,walmart,admin@walmartcareers.com,wisconsin,united states
+9,microsoft,admin@microsoft.com,washington,united states
+10,at&t,admin@att.com,texas,united states
+11,united states air force,admin@airforce.com,texas,united states
+12,pwc,admin@pwc.com,new york,united states
+13,wells fargo,admin@wellsfargo.com,california,united states
+14,infosys,admin@infosys.com,karnataka,india
+15,deloitte,admin@deloitte.com,new york,united states
+16,citi,admin@citigroup.com,new york,united states
+17,bank of america,admin@bankofamerica.com,north carolina,united states
+18,jpmorgan chase & co.,admin@jpmorganchase.com,new york,united states
+19,us navy,admin@navy.com,district of columbia,united states
+20,amazon,admin@amazon.com,washington,united states
+21,apple,admin@apple.com,california,united states
+22,siemens,admin@siemens.com,bavaria,germany
+23,oracle,admin@oracle.com,california,united states
+24,nokia,admin@nokia.com,uusimaa,finland
+25,education nationale,admin@education.gouv.fr,île-de-france,france
+26,capgemini,admin@capgemini.com,aquitaine,france
+27,wipro technologies,admin@wipro.com,karnataka,india
+28,hsbc,admin@hsbc.com,greater london,united kingdom
+29,google,admin@google.com,california,united states
+30,united states postal service,admin@usps.com,district of columbia,united states
+31,mcdonald's corporation,admin@aboutmcdonalds.com,illinois,united states
+32,ericsson,admin@ericsson.com,stockholm,sweden
+33,boeing,admin@boeing.com,illinois,united states
+34,vodafone,admin@vodafone.com,west berkshire,united kingdom
+35,kaiser permanente,admin@kaiserpermanente.org,california,united states
+36,ford motor company,admin@ford.com,michigan,united states
+37,intel corporation,admin@intel.com,california,united states
+38,department of veterans affairs,admin@va.gov,district of columbia,united states
+39,cisco,admin@cisco.com,california,united states
+40,general motors,admin@gm.com,michigan,united states
+41,pepsico,admin@pepsico.com,new york,united states
+42,target,admin@target.com,minnesota,united states
+43,shell,admin@shell.com,zuid-holland,netherlands
+44,hcl technologies,admin@hcltech.com,uttar pradesh,india
+45,ups,admin@ups.com,georgia,united states
+46,pfizer,admin@pfizer.com,new york,united states
+47,unilever,admin@unilever.com,greater london,united kingdom
+48,nestlé,admin@nestle.com,vaud,switzerland
+49,unitedhealth group,admin@unitedhealthgroup.com,minnesota,united states
+50,huawei technologies,admin@huawei.com,guangdong,china
+51,dell,admin@dell.com,texas,united states
+52,gsk,admin@gsk.com,hillingdon,united kingdom
+53,honeywell,admin@honeywell.com,new jersey,united states
+54,schlumberger,admin@slb.com,texas,united states
+55,lockheed martin,admin@lockheedmartin.com,maryland,united states
+56,"ayatama energi,admin@ trisco nusantara",ayatama energi,
+57,abb,admin@abb.com,zurich,switzerland
+58,starbucks,admin@starbucks.com,washington,united states
+59,morgan stanley,admin@morganstanley.com,new york,united states
+60,the home depot,admin@homedepot.com,georgia,united states
+61,novartis,admin@novartis.com,basel-city,switzerland
+62,johnson & johnson,admin@jnj.com,new jersey,united states
+63,bp,admin@bp.com,greater london,united kingdom
+64,schneider electric,admin@schneider-electric.com,kentucky,united states
+65,state farm,admin@statefarm.com,illinois,united states
+66,dhl,admin@dhl.com,nordrhein-westfalen,germany
+67,td,admin@td.com,ontario,canada
+68,ge,admin@ge.com,connecticut,united states
+69,philips,admin@philips.com,surrey,united kingdom
+70,ubs,admin@ubs.com,zurich,switzerland
+71,procter & gamble,admin@pg.com,ohio,united states
+72,walgreens,admin@walgreens.com,illinois,united states
+73,"keller williams realty,admin@ inc.",keller williams realty,kw.com
+74,"lowe's companies,admin@ inc.",lowe's companies,lowes.com
+75,united states marine corps,admin@marines.com,district of columbia,united states
+76,dell emc,admin@dellemc.com,massachusetts,united states
+77,tech mahindra,admin@techmahindra.com,maharashtra,india
+78,verizon wireless,admin@verizonwireless.com,new jersey,united states
+79,sanofi,admin@sanofi.com,île-de-france,france
+80,bnp paribas,admin@bnpparibas.com,île-de-france,france
+81,deutsche bank,admin@db.com,hessen,germany
+82,tencent,admin@tencent.com,guangdong,china
+83,j.p. morgan,admin@jpmorgan.com,new york,united states
+84,verizon,admin@verizon.com,new jersey,united states
+85,l'oréal,admin@loreal.com,île-de-france,france
+86,kpmg,admin@kpmg.com,new jersey,united states
+87,orange,admin@orange.com,île-de-france,france
+88,linkedin,admin@linkedin.com,california,united states
+89,barclays,admin@barclays.com,greater london,united kingdom
+90,facebook,admin@facebook.com,california,united states
+91,northrop grumman corporation,admin@northropgrumman.com,virginia,united states
+92,fca fiat chrysler automobiles,admin@fcagroup.com,turin,united kingdom
+93,adp,admin@adp.com,new jersey,united states
+94,medtronic,admin@medtronic.com,minnesota,united states
+95,abbott,admin@abbott.com,illinois,united states
+96,chevron,admin@chevron.com,california,united states
+97,roche,admin@roche.com,basel-city,switzerland
+98,american express,admin@americanexpress.com,new york,united states
+99,samsung electronics,admin@samsung.com,south carolina,united states
+cid,cname,cemail,cstate,ccountry
+1,ibm,admin@ibm.com,new york,united states
+2,tata consultancy services,admin@tcs.com,maharashtra,india
+3,accenture,admin@accenture.com,dublin,ireland
+4,us army,admin@goarmy.com,virginia,united states
+5,ey,admin@ey.com,greater london,united kingdom
+6,hewlett-packard,admin@hpe.com,california,united states
+7,cognizant technology solutions,admin@cognizant.com,new jersey,united states
+8,walmart,admin@walmartcareers.com,wisconsin,united states
+9,microsoft,admin@microsoft.com,washington,united states
+10,at&t,admin@att.com,texas,united states
+11,united states air force,admin@airforce.com,texas,united states
+12,pwc,admin@pwc.com,new york,united states
+13,wells fargo,admin@wellsfargo.com,california,united states
+14,infosys,admin@infosys.com,karnataka,india
+15,deloitte,admin@deloitte.com,new york,united states
+16,citi,admin@citigroup.com,new york,united states
+17,bank of america,admin@bankofamerica.com,north carolina,united states
+18,jpmorgan chase & co.,admin@jpmorganchase.com,new york,united states
+19,us navy,admin@navy.com,district of columbia,united states
+20,amazon,admin@amazon.com,washington,united states
+21,apple,admin@apple.com,california,united states
+22,siemens,admin@siemens.com,bavaria,germany
+23,oracle,admin@oracle.com,california,united states
+24,nokia,admin@nokia.com,uusimaa,finland
+25,education nationale,admin@education.gouv.fr,île-de-france,france
+26,capgemini,admin@capgemini.com,aquitaine,france
+27,wipro technologies,admin@wipro.com,karnataka,india
+28,hsbc,admin@hsbc.com,greater london,united kingdom
+29,google,admin@google.com,california,united states
+30,united states postal service,admin@usps.com,district of columbia,united states
+31,mcdonald's corporation,admin@aboutmcdonalds.com,illinois,united states
+32,ericsson,admin@ericsson.com,stockholm,sweden
+33,boeing,admin@boeing.com,illinois,united states
+34,vodafone,admin@vodafone.com,west berkshire,united kingdom
+35,kaiser permanente,admin@kaiserpermanente.org,california,united states
+36,ford motor company,admin@ford.com,michigan,united states
+37,intel corporation,admin@intel.com,california,united states
+38,department of veterans affairs,admin@va.gov,district of columbia,united states
+39,cisco,admin@cisco.com,california,united states
+40,general motors,admin@gm.com,michigan,united states
+41,pepsico,admin@pepsico.com,new york,united states
+42,target,admin@target.com,minnesota,united states
+43,shell,admin@shell.com,zuid-holland,netherlands
+44,hcl technologies,admin@hcltech.com,uttar pradesh,india
+45,ups,admin@ups.com,georgia,united states
+46,pfizer,admin@pfizer.com,new york,united states
+47,unilever,admin@unilever.com,greater london,united kingdom
+48,nestlé,admin@nestle.com,vaud,switzerland
+49,unitedhealth group,admin@unitedhealthgroup.com,minnesota,united states
+50,huawei technologies,admin@huawei.com,guangdong,china
+51,dell,admin@dell.com,texas,united states
+52,gsk,admin@gsk.com,hillingdon,united kingdom
+53,honeywell,admin@honeywell.com,new jersey,united states
+54,schlumberger,admin@slb.com,texas,united states
+55,lockheed martin,admin@lockheedmartin.com,maryland,united states
+56,"ayatama energi,admin@ trisco nusantara",ayatama energi,
+57,abb,admin@abb.com,zurich,switzerland
+58,starbucks,admin@starbucks.com,washington,united states
+59,morgan stanley,admin@morganstanley.com,new york,united states
+60,the home depot,admin@homedepot.com,georgia,united states
+61,novartis,admin@novartis.com,basel-city,switzerland
+62,johnson & johnson,admin@jnj.com,new jersey,united states
+63,bp,admin@bp.com,greater london,united kingdom
+64,schneider electric,admin@schneider-electric.com,kentucky,united states
+65,state farm,admin@statefarm.com,illinois,united states
+66,dhl,admin@dhl.com,nordrhein-westfalen,germany
+67,td,admin@td.com,ontario,canada
+68,ge,admin@ge.com,connecticut,united states
+69,philips,admin@philips.com,surrey,united kingdom
+70,ubs,admin@ubs.com,zurich,switzerland
+71,procter & gamble,admin@pg.com,ohio,united states
+72,walgreens,admin@walgreens.com,illinois,united states
+73,"keller williams realty,admin@ inc.",keller williams realty,kw.com
+74,"lowe's companies,admin@ inc.",lowe's companies,lowes.com
+75,united states marine corps,admin@marines.com,district of columbia,united states
+76,dell emc,admin@dellemc.com,massachusetts,united states
+77,tech mahindra,admin@techmahindra.com,maharashtra,india
+78,verizon wireless,admin@verizonwireless.com,new jersey,united states
+79,sanofi,admin@sanofi.com,île-de-france,france
+80,bnp paribas,admin@bnpparibas.com,île-de-france,france
+81,deutsche bank,admin@db.com,hessen,germany
+82,tencent,admin@tencent.com,guangdong,china
+83,j.p. morgan,admin@jpmorgan.com,new york,united states
+84,verizon,admin@verizon.com,new jersey,united states
+85,l'oréal,admin@loreal.com,île-de-france,france
+86,kpmg,admin@kpmg.com,new jersey,united states
+87,orange,admin@orange.com,île-de-france,france
+88,linkedin,admin@linkedin.com,california,united states
+89,barclays,admin@barclays.com,greater london,united kingdom
+90,facebook,admin@facebook.com,california,united states
+91,northrop grumman corporation,admin@northropgrumman.com,virginia,united states
+92,fca fiat chrysler automobiles,admin@fcagroup.com,turin,united kingdom
+93,adp,admin@adp.com,new jersey,united states
+94,medtronic,admin@medtronic.com,minnesota,united states
+95,abbott,admin@abbott.com,illinois,united states
+96,chevron,admin@chevron.com,california,united states
+97,roche,admin@roche.com,basel-city,switzerland
+98,american express,admin@americanexpress.com,new york,united states
+99,samsung electronics,admin@samsung.com,south carolina,united states
